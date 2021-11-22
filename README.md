@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+rishal+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/itsmerishalser">itsmerishalser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmerishalser&show_icons=true&theme=dark&locale=en" alt="itsmerishalser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerishalser&theme=dark" alt="itsmerishalser" /></p>
 </p>
 
 
@@ -112,9 +112,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![itsmerishalser](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[RISHALSER](https://github.com/itsmebasil0)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
